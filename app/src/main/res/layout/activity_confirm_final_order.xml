@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Buyers.ConfirmFinalOrderActivity">
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center_horizontal"
+        android:text="@string/activityConfirmFinalOrder_txt_text"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/shipment_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:hint="@string/activityConfirmFinalOrder_shipmentName_hint"
+        />
+
+    <EditText
+        android:id="@+id/shipment_phoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shipment_name"
+        android:inputType="number"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:hint="@string/activityConfirmFinalOrder_shipmentPhoneNumber_hint"
+        />
+
+    <EditText
+        android:id="@+id/shipment_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shipment_phoneNumber"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:hint="@string/activityConfirmFinalOrder_shipmentAddress_hint"
+        />
+
+    <EditText
+        android:id="@+id/shipment_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shipment_address"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:hint="@string/activityConfirmFinalOrder_shipmentCity_hint"
+        />
+
+    <Button
+        android:id="@+id/confirm_final_order_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="73dp"
+        android:text="@string/activityConfirmFinalOrder_confirmFinalOrderBtnText"
+        android:background="@color/textHeading"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        />
+
+
+</RelativeLayout>

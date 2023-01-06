@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "948869943608",
+    "firebase_url": "https://minions-3175-default-rtdb.firebaseio.com",
+    "project_id": "minions-3175",
+    "storage_bucket": "minions-3175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948869943608:android:5242456576732b594171cd",
+        "android_client_info": {
+          "package_name": "com.example.f21g4_minions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSa4_OErMHNhuUk7dVRMEk4sm9WyTIFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948869943608:android:7cebd21f9532f58e4171cd",
+        "android_client_info": {
+          "package_name": "com.example.firebasedataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSa4_OErMHNhuUk7dVRMEk4sm9WyTIFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948869943608:android:3d16d5cf69a903ab4171cd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSa4_OErMHNhuUk7dVRMEk4sm9WyTIFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948869943608-5vfc5cjrp66a0u0lglct6klu8imatb57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">F21G4_Minions</string>
+    <string name="txtProductName">Sample Product</string>
+    <string name="txtProductCategory">Sample Category</string>
+    <string name="txtProductPrice">$0.0</string>
+    <string name="btnAddToCart">Add to Cart</string>
+    <string name="btnAddToWishlist">Add to Wishlist</string>
+    <string name="txtCart">CART</string>
+    <string name="txtWishlist">WISHLIST</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_cart">Cart</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+    <string name="title_activity_seller_home">SellerHomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_logout">Logout</string>
+    
+    <!-- Seller Item View -->
+    <string name="sellerItemView_sellerProductName_text">Product Name</string>
+    <string name="sellerItemView_sellerProductState_text">Product State</string>
+    <string name="sellerItemView_productSellerPrice_text">Product Price</string>
+    <string name="sellerItemView_productSellerDescription_text">Product Description</string>
+
+    <!-- Activity Admin Check New Products -->
+    <string name="activityAdminCheckNewProducts_adminCheckNewProductTitle_text">Approve new products</string>
+
+    <!-- Activity Admin Home -->
+    <string name="activityAdminHome_adminWelcome_text">Welcome Dear Admin</string>
+    <string name="activityAdminHome_maintainBtn_text">Maintain Products</string>
+    <string name="activityAdminHome_checkOrdersBtn_text">Check New Orders</string>
+    <string name="activityAdminHome_checkApproveOrdersBtn_text">Check and Approve new Products</string>
+    <string name="activityAdminHome_adminLogoutBtn_text">Check and Approve new Products</string>
+
+    <!-- Activity Admin Maintain Products -->
+    <string name="activityAdminMaintainProducts_productNameMaintain_text">Product Name</string>
+    <string name="activityAdminMaintainProducts_productPriceMaintain_text">Product Price</string>
+    <string name="activityAdminMaintainProducts_productDescriptionMaintain_text">Product Description</string>
+    <string name="activityAdminMaintainProducts_applyChangesBtn_text">Apply Changes</string>
+    <string name="activityAdminMaintainProducts_deleteProductBtn_text">Delete This Product</string>
+
+    <!-- Activity Admin New Orders -->
+    <string name="activityAdminNewOrders_adminNewOrderTitle_text">New Orders</string>
+
+    <!-- Activity Admin User Products -->
+    <string name="activityAdminUserProducts_adminUserProductsTitle_text">Products</string>
+
+    <!-- Activity Cart -->
+    <string name="activityCart_totalPrice_text">Total Amount = </string>
+    <string name="activityCart_msg1_text">Congratulations, Your final order has been placed. You will receive it soon :)</string>
+    <string name="activityCart_nextProcessBtn_text">Next</string>
+
+    <!-- Activity Confirm Final Order -->
+    <string name="activityConfirmFinalOrder_txt_text">Please write your shipment details</string>
+    <string name="activityConfirmFinalOrder_shipmentName_hint">Your Name</string>
+    <string name="activityConfirmFinalOrder_shipmentPhoneNumber_hint">Phone Number</string>
+    <string name="activityConfirmFinalOrder_shipmentAddress_hint">Address</string>
+    <string name="activityConfirmFinalOrder_shipmentCity_hint">City</string>
+    <string name="activityConfirmFinalOrder_confirmFinalOrderBtnText">Confirm</string>
+
+    <!-- Activity Login 2 -->
+    <string name="activityLogin2_loginPasswordInput_hint">Password</string>
+    <string name="activityLogin2_loginPhoneNumberInput_hint">Phone Number</string>
+    <string name="activityLogin2_rememberCheckbox_text">Remember me</string>
+    <string name="activityLogin2_forgetPasswordLink_text">Forget Password?</string>
+    <string name="activityLogin2_loginBtn_text">Login</string>
+    <string name="activityLogin2_adminPanelLink_text">I\'m an Admin?</string>
+    <string name="activityLogin2_notAdminPanelLink_text">I\'m not an Admin?</string>
+
+    <!-- Activity Main -->
+    <string name="activityMain_appSlogan_text">Find, Discover, Choose and Buy anything online.</string>
+    <string name="activityMain_mainJoinNowBtn_text">Join Now</string>
+    <string name="activityMain_mainLoginBtn_text">Already have an account? Login</string>
+    <string name="activityMain_sellerBegin_text">Want to become a seller?</string>
+
+
+    <!-- Activity On Boarding -->
+    <string name="activityOnBoarding_getStartedBtn_text">Lets get started</string>
+
+
+    <!-- Activity Product Details -->
+    <string name="activityProductDetails_productNameDetails_text">Product Name</string>
+    <string name="activityProductDetails_productDescriptionDetails_text">Product Description</string>
+    <string name="activityProductDetails_productPriceDetails_text">Product Price</string>
+    <string name="activityProductDetails_pdAddToCartButton_text">Add to Cart</string>
+
+    <!-- Activity Product Info Details -->
+    <string name="activityProductInfoDetails_btnTemp_text">Button</string>
+
+    <!-- Activity Register -->
+    <string name="activityRegister_registerUsernameInput_hint">Name</string>
+    <string name="activityRegister_registerPhoneNumberInput_hint">Phone Number</string>
+    <string name="activityRegister_registerPasswordInput_hint">Password</string>
+    <string name="activityRegister_registerBtn_text">Create Account</string>
+
+
+    <!-- Activity Reset password -->
+    <string name="activityResetPassword_pageTitle_text">Reset Password</string>
+    <string name="activityResetPassword_findPhoneNumber_hint">Please write your phone number</string>
+    <string name="activityResetPassword_titleQuestions_text">Answer the Following Security Questions?</string>
+    <string name="activityResetPassword_question1_hint">Where your parents met first time?</string>
+    <string name="activityResetPassword_question2_hint">Who is your favorite super hero?</string>
+    <string name="activityResetPassword_verifyBtn_text">Verify</string>
+
+
+    <!-- Activity Search Product -->
+    <string name="activitySearchProducts_searchProductName_hint">Product Name</string>
+    <string name="activitySearchProducts_searchBtn_text">Search</string>
+
+
+
+
+    <!-- Activity Seller Add New Product -->
+    <string name="activitySellerAddNewProduct_productName_hint">Product Name</string>
+    <string name="activitySellerAddNewProduct_productDescription_hint">Product Description</string>
+    <string name="activitySellerAddNewProduct_productPrice_hint">Product Price</string>
+    <string name="activitySellerAddNewProduct_addNewProducts_hint">Add Product</string>
+
+    <!-- Activity Seller Home -->
+    <string name="activitySellerHome_sellerHomeTitle_text">My all products</string>
+
+    <!-- Activity Seller Login -->
+    <string name="activitySellerLogin_titleSeller_text">Seller Login Form</string>
+    <string name="activitySellerLogin_sellerLoginEmail_hint">Email</string>
+    <string name="activitySellerLogin_sellerLoginPassword_hint">Password</string>
+    <string name="activitySellerLogin_sellerLoginBtn_text">Login</string>
+
+
+    <!-- Activity Seller Product Category -->
+    <string name="activitySellerProductCategory_sloganCategory_text">Add New Product</string>
+
+    <!-- Activity Seller Registration -->
+    <string name="activitySellerRegistration_titleSeller_text">Seller Registration Form</string>
+    <string name="activitySellerRegistration_sellerName_hint">Name</string>
+    <string name="activitySellerRegistration_sellerPhone_hint">Phone</string>
+    <string name="activitySellerRegistration_sellerEmail_hint">Email</string>
+    <string name="activitySellerRegistration_sellerAddress_hint">Address</string>
+    <string name="activitySellerRegistration_sellerPassword_hint">Password</string>
+    <string name="activitySellerRegistration_sellerRegisterBtn_text">Register</string>
+    <string name="activitySellerRegistration_sellerAlreadyHaveAccountBtn_text">Already have an account</string>
+
+    <!-- Activity Settings -->
+    <string name="activitySettings_closeSettingsBtn_text">Close</string>
+    <string name="activitySettings_updateAccountSettingsBtn_text">Update</string>
+    <string name="activitySettings_profileImageChangeBtn_text">Change Profile</string>
+    <string name="activitySettings_settingsPhoneNumber_hint">Phone Number</string>
+    <string name="activitySettings_settingsFullName_hint">Full Name</string>
+    <string name="activitySettings_settingsAddress_hint">Address</string>
+    <string name="activitySettings_securityQuestionsBtn_text">Set Security Questions</string>
+
+    <!-- Cart Items Layout -->
+    <string name="cartItemsLayout_cartProductName_text">Product Name</string>
+    <string name="cartItemsLayout_cartProductQuantity_text">Product Quantity</string>
+    <string name="cartItemsLayout_cartProductPrice_text">Product Price</string>
+
+    <!-- Layout Cart Item -->
+    <string name="layoutCartItem_txtProductNameinCart_text">TextView</string>
+    <string name="layoutCartItem_txtProductQtyinCart_text">TextView</string>
+    <string name="layoutCartItem_txtProductPriceinCart_text">TextView</string>
+
+    <!-- Layout Product -->
+    <string name="layoutProduct_txtProductName_text">TextView</string>
+    <string name="layoutProduct_txtProductCategory_text">TextView</string>
+    <string name="layoutProduct_txtProductDescription_text">TextView</string>
+    <string name="layoutProduct_txtProductPrice_text">TextView</string>
+
+
+
+    <!-- Orders Layout -->
+    <string name="ordersLayout_orderUserName_text">User Name</string>
+    <string name="ordersLayout_orderPhoneNumber_text">Phone Number</string>
+    <string name="ordersLayout_orderTotalPrice_text">Total Price</string>
+    <string name="ordersLayout_orderAddressCity_text">Address, City</string>
+    <string name="ordersLayout_orderDateTime_text">Date Time</string>
+    <string name="ordersLayout_showAllProductsBtn_text">Show This Order Products</string>
+
+    <!-- Products Items Layout -->
+    <string name="productsItemsLayout_productName_text">Product Name</string>
+    <string name="productsItemsLayout_productPrice_text">Product Price</string>
+    <string name="productsItemsLayout_productDescription_text">Product Description</string>
+</resources>
